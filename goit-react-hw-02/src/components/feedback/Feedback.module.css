@@ -1,0 +1,10 @@
+.feedbackItem {
+  list-style-type: none;
+}
+
+ul {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
